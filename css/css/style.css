@@ -1,0 +1,23 @@
+/* CSS = FOLHA DE ESTILO EM CASCATA!!*\
+/*  */
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    margin: 20px;
+    margin-top: ;
+    margin-right: ;
+    margin-bottom: ;
+    margin-left: ;
+
+}
+.box2{
+    background-color: #9932CC;
+    width: 50px;
+    height: 50px;
+    padding: 30px 30px 30px 30px;
+    padding-top: ;
+    padding-right: ;
+    padding-bottom: ;
+    padding-left: ;
+}

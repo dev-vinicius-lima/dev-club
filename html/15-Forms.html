@@ -1,0 +1,33 @@
+<!-- FORMULÁRIOS EM HTML 
+GET
+POST
+-->
+
+<body>
+    <h1>Digite seu endereço:</h1>
+    <form action="" method="post" enctype="multipart/form-data">
+
+        <label for="rua">
+            Rua
+            <input type="text" name="rua" autocomplete="street-address">
+        </label>
+
+        <label for="numero">
+            Número
+            <input type="number" name="numero" autocomplete="cc-number">
+        </label>
+
+        <label for="email">
+            Email
+            <input type="email" name="email" autocomplete="email">
+        </label>
+        <label for="file">
+            Foto:
+            <input type="file" name="file">
+        </label>
+        <button type="submit">Enviar dados</button>
+        <button type="reset">Limpar Dados</button>
+
+
+    </form>
+</body>
